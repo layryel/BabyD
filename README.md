@@ -3,7 +3,7 @@
 Repositório criado para armazenar o site do Trabalho de Conclusão de Curso apresentado ao Curso Técnico em Desenvolvimento de Sistemas da Etec Zona Leste 2024.
 ##
 
-# Link do GitPages
+# Link do GitPages/Site
 
 [![SiteBabyD](https://img.shields.io/static/v1?label=SiteBabyD&message=AcesseAqui!&color=e2eaa9&style=for-the-badge&logo=ghost)](https://marisouza31.github.io/BabyD/)
 ##
@@ -19,15 +19,19 @@ Uma solução que tem por objetivo desenvolver uma aplicação que usa de tecnol
 ##
 
 <div align="center">
-  
   <h4>Alguns Layouts do Site:</h4>
+  <div class="row">
   <img width="500" src="https://github.com/marisouza31/BabyD/blob/main/README/home.png"><br>
   <img width="500" src="https://github.com/marisouza31/BabyD/blob/main/README/sobre-nos.png"><br>
+    </div>
+      <div class="row">
   <img width="500" src="https://github.com/marisouza31/BabyD/blob/main/README/objetivos.png"><br>
   <img width="500" src="https://github.com/marisouza31/BabyD/blob/main/README/membros.png"><br>
+        </div>
+          <div class="row">
   <img width="500" src="https://github.com/marisouza31/BabyD/blob/main/README/galeria.png"><br>
 <img width="500" src="https://github.com/marisouza31/BabyD/blob/main/README/contatos.png">
-
+</div>
 </div>
 
 ##
