@@ -4,14 +4,16 @@ Repositório criado para armazenar o Trabalho de Conclusão de Curso apresentado
 ##
 
 <div align="center">
-  
+  <h2>Clique aqui e conheca nosso site:<h2>
+    [![SiteBabyD](https://img.shields.io/static/v1?label=SiteBabyD&message=AcesseAqui!&color=eda7dc&style=for-the-badge&logo=ghost)](https://marisouza31.github.io/BabyD/)<br>
+    
   <h4>Alguns layouts do site:</h4>
   <img width="500" src="https://github.com/marisouza31/BabyD/blob/main/README/home.png"><br>
   <img width="500" src="https://github.com/marisouza31/BabyD/blob/main/README/sobre-nos.png">  
   <br><br>
   <h4>Alguns layouts do App:</h4>
-  <img width="500" src="https://github.com/marisouza31/BabyD/blob/main/README/Home-App.png"><br>
-  <img width="500" src="https://github.com/marisouza31/BabyD/blob/main/README/Login-App.png">
+  <img width="500" src="https://github.com/marisouza31/BabyD/blob/714e5ba591b0189b055912853707e61a24c6aad9/README/Home-App.png"><br>
+  <img width="500" src="https://github.com/marisouza31/BabyD/blob/714e5ba591b0189b055912853707e61a24c6aad9/README/Login-App.png">
 
   <h4>Linguagens e tecnologias que utilizamos:</h4> <br>
   <p>
