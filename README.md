@@ -4,16 +4,14 @@ Repositório criado para armazenar o Trabalho de Conclusão de Curso apresentado
 ##
 
 <div align="center">
-# Link do GitPages
-[![SiteBabyD](https://img.shields.io/static/v1?label=SiteBabyD&message=AcesseAqui!&color=e2eaa9&style=for-the-badge&logo=ghost)](https://marisouza31.github.io/BabyD/)
 
 # Alguns layouts do site:
   <img width="500" src="https://github.com/marisouza31/BabyD/blob/main/README/home.png"><br>
   <img width="500" src="https://github.com/marisouza31/BabyD/blob/main/README/sobre-nos.png">  
   <br><br>
 # Alguns layouts do App:
-  <img width="500" src="https://github.com/marisouza31/BabyD/blob/714e5ba591b0189b055912853707e61a24c6aad9/README/Home-App.png"><br>
-  <img width="500" src="https://github.com/marisouza31/BabyD/blob/714e5ba591b0189b055912853707e61a24c6aad9/README/Login-App.png">
+  <img height="600" src="https://github.com/marisouza31/BabyD/blob/714e5ba591b0189b055912853707e61a24c6aad9/README/Home-App.png"><br>
+  <img height="600" src="https://github.com/marisouza31/BabyD/blob/714e5ba591b0189b055912853707e61a24c6aad9/README/Login-App.png">
 
 # Linguagens e tecnologias que utilizamos:
 <br>
@@ -42,7 +40,7 @@ Repositório criado para armazenar o Trabalho de Conclusão de Curso apresentado
 ##
 
 <div align="center">
-# Conheça nosso time:</h4>
+# Conheça nosso time:
   <img width="500" src="https://github.com/marisouza31/BabyD/blob/main/README/membros.png">
   <br>
 </div>
