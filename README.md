@@ -5,7 +5,7 @@ Repositório criado para armazenar o Trabalho de Conclusão de Curso apresentado
 
 <div align="center">
   <h2>Clique aqui e conheca nosso site:<h2>
-    [![SiteBabyD](https://img.shields.io/static/v1?label=SiteBabyD&message=AcesseAqui!&color=eda7dc&style=for-the-badge&logo=ghost)](https://marisouza31.github.io/BabyD/)<br>
+[![SiteBabyD](https://img.shields.io/static/v1?label=SiteBabyD&message=AcesseAqui!&color=e2eaa9&style=for-the-badge&logo=ghost)](https://marisouza31.github.io/BabyD/)<br>
     
   <h4>Alguns layouts do site:</h4>
   <img width="500" src="https://github.com/marisouza31/BabyD/blob/main/README/home.png"><br>
