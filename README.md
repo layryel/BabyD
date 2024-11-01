@@ -8,7 +8,7 @@ Repositório criado para armazenar o Trabalho de Conclusão de Curso apresentado
   <img width="500" src="https://github.com/marisouza31/BabyD/blob/main/README/sobre-nos.png">  
   <br><br>
 <h4> Alguns layouts do App: </h4>
-<img width="250" height="541" src="https://github.com/layryel/AppBabyD/blob/95148ff3b8ce9bf2fff47ad8d190e3d77469b8bc/README/tela%20-%20iniciar.png"><br><br>
+<img width="250" height="541" src="https://github.com/layryel/AppBabyD/blob/95148ff3b8ce9bf2fff47ad8d190e3d77469b8bc/README/tela%20-%20iniciar.png"><br>
 <img width="250" height="541" src="https://github.com/layryel/AppBabyD/blob/0d847af565aebecb29ca9ab3a6d3c1538491e151/README/tela%20-%20login.png">
 
 ## 
