@@ -1,19 +1,19 @@
 # BabyD
-
 Repositório criado para armazenar o Trabalho de Conclusão de Curso apresentado ao Curso Técnico em Desenvolvimento de Sistemas da Etec Zona Leste 2024.
 ##
 
 <div align="center">
-
-# Alguns layouts do site:
+<h4> Alguns layouts do site: </h4>
   <img width="500" src="https://github.com/marisouza31/BabyD/blob/main/README/home.png"><br>
   <img width="500" src="https://github.com/marisouza31/BabyD/blob/main/README/sobre-nos.png">  
   <br><br>
-# Alguns layouts do App:
+<h4> Alguns layouts do App: </h4>
   <img height="600" src="https://github.com/marisouza31/BabyD/blob/714e5ba591b0189b055912853707e61a24c6aad9/README/Home-App.png"><br>
   <img height="600" src="https://github.com/marisouza31/BabyD/blob/714e5ba591b0189b055912853707e61a24c6aad9/README/Login-App.png">
 
-# Linguagens e tecnologias que utilizamos:
+## 
+
+<h4> Linguagens e tecnologias que utilizamos: </h4>
 <br>
   <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="30"/>&nbsp;
@@ -40,7 +40,7 @@ Repositório criado para armazenar o Trabalho de Conclusão de Curso apresentado
 ##
 
 <div align="center">
-# Conheça nosso time:
+<h4> Conheça nosso time: </h4>
   <img width="500" src="https://github.com/marisouza31/BabyD/blob/main/README/membros.png">
   <br>
 </div>
