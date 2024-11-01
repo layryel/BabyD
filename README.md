@@ -1,6 +1,6 @@
 # BabyD
 
-Repositório criado para armazenar o site do Trabalho de Conclusão de Curso apresentado ao Curso Técnico em Desenvolvimento de Sistemas da Etec Zona Leste 2024.
+Repositório criado para armazenar o Trabalho de Conclusão de Curso apresentado ao Curso Técnico em Desenvolvimento de Sistemas da Etec Zona Leste 2024.
 ##
 
 # Link do GitPages/Site
