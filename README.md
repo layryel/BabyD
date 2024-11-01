@@ -6,7 +6,7 @@ Repositório criado para armazenar o Trabalho de Conclusão de Curso apresentado
 <div align="center">
   <h4>Clique aqui para acessar ao site expositivo do projeto:</h4>
 
-  [![Site](https://img.shields.io/badge/Site%20BabyD?color=%23eda7dc&link=https%3A%2F%2Fmarisouza31.github.io%2FBabyD%2F)](https://marisouza31.github.io/BabyD/)
+  ![Site](https://img.shields.io/badge/logo=data:https://marisouza31.github.io/BabyD/)
   
   <h4>Alguns layouts do site:</h4>
   <img width="500" src="https://github.com/marisouza31/BabyD/blob/main/README/home.png"><br>
