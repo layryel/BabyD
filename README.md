@@ -51,7 +51,7 @@ O que é o BabyD?
 
 <div align="center">
 <h4> Conheça nosso time: </h4>
-  <img width="500" src="https://github.com/marisouza31/BabyD/blob/main/README/membros.png">
+  <img width="500" src="https://github.com/marisouza31/BabyD/blob/f3bb8951b18ee3ca6a67ed0437fb9e357f1b7045/README/membros_foto.jpeg">
   <br>
 </div>
 
