@@ -3,19 +3,17 @@ Parte do repositório destinado para armazenar a codificação do site BabyD, co
 ##
 
 <div align="center">
-<h4> Alguns layouts do App: </h4>
-<img width="250" height="541" src="https://github.com/layryel/AppBabyD/blob/95148ff3b8ce9bf2fff47ad8d190e3d77469b8bc/README/tela%20-%20iniciar.png">
-<img width="250" height="541" src="https://github.com/layryel/AppBabyD/blob/main/README/login.png">
-
+<img width="500" src="https://github.com/marisouza31/BabyD/blob/main/README/home.png"><br>
+  <img width="500" src="https://github.com/marisouza31/BabyD/blob/main/README/sobre-nos.png">
+  
 ## 
 
 <h4> Linguagens e tecnologias que utilizamos: </h4>
 <br>
-  <p>
+  <p>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS" alt="CSS" width="40" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="30"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" alt="OpenCV" width="40" height="30"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="30"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="30"/>&nbsp; 
   </p>
 </div>
 
