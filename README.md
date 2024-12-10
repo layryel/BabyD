@@ -30,14 +30,22 @@ Repositório criado para armazenar o Trabalho de Conclusão de Curso apresentado
 ##
 
 **Possíveis perguntas:**
-**Q:** O que é o BabyD?
-> **Resp:** Uma solução que tem por objetivo desenvolver uma aplicação que usa de tecnologia de reconhecimento facial para auxilixar na manutenção da segurança das creches. Esse sistema permitirá que os responsaveis se cadastrem na plataforma com seus dados e poderão fazer o escanner de sua face, assim, ao chegar na instituição para buscar a criança, o responsável fará o reconhecimento e podera retira-la. É um sistema agil e objetivo, onde o nosso maior objetivo é a precisão e o cuidado.
+<div align="justify">
+  
+Por que escolheram esse nome?
+> **Resp:** O nome "BabyD" resulta da fusão das palavras "baby" e "id", sendo que "baby" corresponde ao termo em inglês para "bebê", enquanto "id" é a abreviação de "identification", que significa "identificação". A escolha desse nome visa transmitir a ideia de um sistema inovador e personalizado para as creches, capaz de reconhecer e identificar indivíduos de maneira única, com ênfase no início da vida, simbolizado pelo "bebê", e na importância da identificação precisa nesses ambientes.
 
-**Q:** De onde veio o nome do projeto?
-> **Resp:** O nome BabyD é uma junção das palavras 'baby' e 'id', que significam, respectivamente, bebê e identificação.
+Qual o principal diferencial?
+> **Resp:** A identificação dos responsáveis por meio do reconhecimento facial é realizada de maneira ágil e eficiente, proporcionando uma solução tecnológica que simplifica consideravelmente todo o processo. Este sistema inovador permite uma verificação precisa e instantânea, eliminando a necessidade de métodos tradicionais que, frequentemente, são mais lentos e suscetíveis a erros.
 
-**Q:** Qual o principal diferencial?
-> **Resp:** A identificação dos responsáveis por meio do reconhecimento facial é realizado de forma rápida e simples, otimizando o tempo desse processo.
+Quais serão as metodos de segurança quanto aos dados?
+> **Resp:** As fotos cadastradas serão tratadas e serão armazenadas apenas as caracteristicas, em pares ordenados, criptografados para mais proteção, além do MV5 para proteção de informações como CPF, nome, entre outros.
+
+Por que escolheram essas cores para a composição do projeto?
+> **Resp:** Seguindo a teoria das cores, tons mais claros remetem a tranquilidade, suavidade e leveza. O azul é associado com paz e estabilidade, o rosa evoca uma sensação de doçura, o verde está ligado a frescor e equilíbrio, o amarelo remete à leveza e à felicidade, e por fim , o roxo traz uma sensação de introspecção e calma. A mistura dessas cores no design remete a uma experiência de aprendizado agradável, equilibrada e emocionalmente positiva, onde as crianças se sentem estimuladas a aprender enquanto permanecem tranquilas e engajadas com o cuidado que o sistema proporciona.
+
+O que é o BabyD?
+> **Resp:** Uma solução que tem por objetivo desenvolver uma aplicação que usa de tecnologia de reconhecimento facial para auxilixar na manutenção da segurança das creches. Esse sistema permitirá que os responsaveis se cadastrem na plataforma com seus dados e poderão fazer o escanner de sua face, assim, ao chegar na instituição para buscar a criança, o responsável fará o reconhecimento e podera retira-la. É um sistema agil e objetivo, onde o nosso maior objetivo é a precisão e o cuidado
 
 ##
 
