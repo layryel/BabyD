@@ -1,15 +1,15 @@
 # BabyD
-
-Parte do repositório criado para armazenar a codificação do aplicativo BabyD, componente do sistema proposto para Trabalho de Conclusão de Curso apresentado ao Curso Técnico em Desenvolvimento de Sistemas da Etec Zona Leste 2024.
+Parte do repositório destinado para armazenar a codificação do aplicativo BabyD, componente do sistema proposto para Trabalho de Conclusão de Curso apresentado ao Curso Técnico em Desenvolvimento de Sistemas da Etec Zona Leste 2024.
 ##
 
 <div align="center">
-  
-# Alguns layouts do site:
-  <img width="500" src="https://github.com/marisouza31/BabyD/blob/main/README/home.png"><br>
-  <img width="500" src="https://github.com/marisouza31/BabyD/blob/main/README/sobre-nos.png">  
-  <br><br>
-# Linguagens e tecnologias que utilizamos:
+<h4> Alguns layouts do App: </h4>
+<img width="250" height="541" src="https://github.com/layryel/AppBabyD/blob/95148ff3b8ce9bf2fff47ad8d190e3d77469b8bc/README/tela%20-%20iniciar.png">
+<img width="250" height="541" src="https://github.com/layryel/AppBabyD/blob/main/README/login.png">
+
+## 
+
+<h4> Linguagens e tecnologias que utilizamos: </h4>
 <br>
   <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="30"/>&nbsp; 
@@ -22,7 +22,7 @@ Parte do repositório criado para armazenar a codificação do aplicativo BabyD,
 ##
 
 <div align="center">
-# Conheça nosso time:
+<h4> Conheça nosso time: </h4>
   <img width="500" src="https://github.com/marisouza31/BabyD/blob/main/README/membros.png">
   <br>
 </div>
