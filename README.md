@@ -50,6 +50,33 @@ O que é o BabyD?
 ##
 
 <div align="center">
+  <h4>Conheça nosso time:</h4>
+  <img width="500" src="https://github.com/marisouza31/BabyD/blob/f3bb8951b18ee3ca6a67ed0437fb9e357f1b7045/README/membros_foto.jpeg">
+  <br>
+</div>
+
+<div align="justify">
+<br><br>
+  
+  **Layara Miranda:**<br>
+  "Durante o desenvolvimento do projeto BabyD, desempenhei papéis fundamentais que contribuíram significativamente para o sucesso da iniciativa. Minha contribuição abrangeu diversas etapas, desde a pesquisa teórica até a implementação prática.
+No desenvolvimento de conteúdo, elaborei uma monografia abordando a temática central do projeto, documentando as fases do projeto e a aplicação das ferramentas, proporcionando uma base teórica sólida e uma ampla explicação de sua utilização; desenvolvi um artigo científico que explorou aspectos inovadores e tecnológicos do projeto para apresentação em um congresso (Engetec); realizei um levantamento detalhado dos requisitos necessários para o projeto de acordo com a UML, garantindo uma base sólida para o desenvolvimento de diagramas; criei documentação detalhada dos casos de uso, definindo os fluxos de interação do sistema.
+No ambito modelagem e desenvolvimento desenvolvi o diagrama de caso de uso para visualizar e especificar os requisitos funcionais do projeto; auxiliei a lógica por trás dos diagramas, garantindo coerência e funcionalidade, participando das correções; desenvolvi parte do site do projeto, criando textos e imagens, estilizando cores, entre outros.
+Na parte das apresentações e divulgação criei slides para diferentes etapas do projeto (pré-projeto, referencial teórico, intermediário online, PITCH final e feira tecnológica), elaborando também roteiros detalhados para cada apresentação, garantindo clareza e consistência na comunicação.
+Essa experiência enriquecedora permitiu desenvolver habilidades técnicas, de pesquisa e de comunicação, trabalho em grupo, além de contribuir para o sucesso do Projeto BabyD. Foi um trabalho árduo com muitas intercorrencias, mas que, graças a nosso empenho e a ajuda que nos foi oferecida, conseguimos superar."
+  
+  **Mariana Ocireu:**<br>
+  "Minha contribuição para o projeto envolveu o desenvolvimento do front-end, onde fui responsável pela parte visual do site. Além disso, contribuí um pouco para o back-end, especialmente na implementação da API de CEP.
+  Participei ativamente em outras áreas do projeto, incluindo o desenvolvimento dos diagramas de caso de uso e a documentação dos casos de uso.
+  Este projeto foi incrível, proporcionando uma aprendizagem significativa. Tive que me esforçar ao máximo para me dedicar completamente a ele, aprendendo a trabalhar de maneira colaborativa, algo que nunca havia experimentado antes. No final, ver o incrível resultado após tanto esforço foi gratificante. Foi uma experiência enriquecedora."
+  
+  **Nicole Milanez:**<br>
+  "Durante o desenvolvimento do Projeto BabyD, desempenhei um papel fundamental na etapa de design e planejamento, contribuindo significativamente para a estruturação visual e interativa do site. Criei wireframes de baixa fidelidade do site, proporcionando uma representação inicial da estrutura, layout e funcionalidades. Esses wireframes permitiram definição clara da hierarquia de informações, organização lógica da navegação, visualização prévia da experiência do usuário e identificação de possíveis pontos de melhoria.
+Minha contribuição garantiu uma base sólida para o desenvolvimento posterior, coerência visual e funcional, melhoria da experiência do usuário e facilitação da comunicação entre equipe e stakeholders. Essa experiência enriquecedora permitiu desenvolver habilidades em design de interfaces, planejamento visual e trabalho em equipe."
+</div>
+
+
+<div align="center">
 <h4> Conheça nosso time: </h4>
   <img width="500" src="https://github.com/marisouza31/BabyD/blob/f3bb8951b18ee3ca6a67ed0437fb9e357f1b7045/README/membros_foto.jpeg">
   <br>
