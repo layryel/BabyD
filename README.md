@@ -75,13 +75,6 @@ Nicole Milanez
 Minha contribuição garantiu uma base sólida para o desenvolvimento posterior, coerência visual e funcional, melhoria da experiência do usuário e facilitação da comunicação entre equipe e stakeholders. Essa experiência enriquecedora permitiu desenvolver habilidades em design de interfaces, planejamento visual e trabalho em equipe."
 </div>
 
-
-<div align="center">
-<h4> Conheça nosso time: </h4>
-  <img width="500" src="https://github.com/marisouza31/BabyD/blob/f3bb8951b18ee3ca6a67ed0437fb9e357f1b7045/README/membros_foto.jpeg">
-  <br>
-</div>
-
 ##
 
 Gostaríamos de agradecer a todos que visitaram o nosso repositório, caso queira se conectar conosco, estamos disponíveis através do nosso e-mail e LinkedIn.
