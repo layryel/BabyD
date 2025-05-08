@@ -80,6 +80,10 @@ Minha contribuição garantiu uma base sólida para o desenvolvimento posterior,
 
 ##
 
+> Nosso trabalho alcançou a nota máxima na avaliação da banca!
+
+##
+
 Gostaríamos de agradecer a todos que visitaram o nosso repositório, caso queira se conectar conosco, estamos disponíveis através do nosso e-mail e LinkedIn.
 
 **Layara Miranda**
